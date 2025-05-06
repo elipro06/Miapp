@@ -5,7 +5,7 @@ st.title("🐢 Mundo Tortuga 🐢")
 
 st.header("¡Bienvenidos a mi app sobre tortugas!")
 st.write("Aquí celebramos lo geniales que son estos animalitos.")
-image = Image.open('tortuguita.jpg')  # Asegúrate de tener una imagen con este nombre
+image = Image.open('tortuga.jpg')  # Asegúrate de tener una imagen con este nombre
 
 st.image(image, caption='Hermosa tortuguita')
 
